@@ -1,0 +1,20 @@
+
+body{
+  background-color: antiquewhite;
+  padding: 5% 5%;
+}
+#value{
+  font-size: 120px;
+  margin-left: 143px;
+}
+button{
+  padding: 10px 20px;
+  background-color: aqua;
+  cursor: pointer;
+  border: none;
+  border: 1px solid grey;
+  margin: 10px;
+}
+button:hover{
+  background-color: aquamarine;
+}
